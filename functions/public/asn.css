@@ -1,0 +1,67 @@
+#h1{
+	font-family: 'Anton', sans-serif;
+
+}
+
+#greybg{
+	background-color: lightgrey;
+}
+
+#h1underline{
+padding-left: 50px;
+}
+
+#whitebg{
+	background-color: white;
+	margin-left: 28px;
+}
+
+#padleft{
+	padding-left: 90px;	
+}
+
+#height{
+	height: 25px;
+}
+
+#height1{
+	background-color: grey;
+	border-right: 0;
+	height: 25px;
+}
+
+#aa{
+    background-color: lightgrey;
+    padding: 5px;
+    font-size: 13px;
+    padding-bottom: 7px;
+    padding-top: 5.7px;
+}
+
+#aa1{
+    background-color: lightgrey;
+    padding: 5px;
+    font-size: 13px;
+    padding-bottom: 6.5px;
+    padding-top: 6.5px;
+
+}
+
+
+#margleft{
+	margin-left: 15px;
+}
+
+#fieldalign{
+	margin-left: 30px;
+	margin-bottom: 0px;
+}
+
+#margright{
+	margin-right: -40px;
+}
+
+#whitebg1{
+	background-color: white;
+}
+
